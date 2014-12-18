@@ -4,6 +4,6 @@
     "$kref"        : "#/ckan/github/GOUPIL-Robin/BeKerbal",
     "name"         : "BeKerbal",
     "abstract"     : "Flight your crafts and EVA in a real first person view.",
-    "license"      : "GNU GPL-2",
+    "license"      : "GPL-2.0",
     "ksp_version"  : "0.90"
 }
